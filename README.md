@@ -1,3 +1,25 @@
+
+
+
+
+
+
+
+
+# 📥 [点此直接下载最新版软件 (Download Latest Version)](https://github.com/SmithYorke/WAV-NCM-MP3-Audio-ConverterBOX/releases/latest)
+---
+> **使用说明**：下载 ZIP 包后解压，直接运行 `app.exe` 即可启动，内置所有运行环境。
+
+
+
+
+
+
+
+
+
+
+
 # WAV-NCM-MP3-Audio-ConverterBOX
 是一款基于 Python 开发的本地化、轻量级音频处理工作站。它集成了 FFmpeg 引擎与 NCM 解密算法，旨在为用户提供音质良好，完全免费！的音频转换解决方案
 
